@@ -28,7 +28,7 @@ zoom: 1;
 </head>
 <div class="bjimg"></div>
 
-# 问题有不小进展并且武汉终于天晴了所以完成上篇杂记的练习同时高呼三声Oscillatory Integrals万岁
+# 问题有不小进展所以完成上篇杂记的练习同时高呼三声Oscillatory Integrals万岁但是武汉终于天晴了好想出去玩啊
 
 <font size="2" color="grey">发布于2024.3.2</font><br/>
 我们在上一篇[杂记](https://senyuyangpdelearner.github.io/blog3)中留下一道最小数原理(良序原理)的练习，现在来证明它.
