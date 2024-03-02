@@ -44,6 +44,7 @@ zoom: 1;
 *证明*. 用反证法. 任给一个满足归纳假设的关于自然数的命题$P(n)$：
 - $P(1)$为真；
 - $P(n)$为真$\Rightarrow$ $P(n+1)$为真.
+
 假设所有使$P(n)$不真的自然数构成的集合$C$非空，根据最小数原理存在$C$中的最小数$n$. 首先$1\notin C$，所以$n>1$,，$n-1\in\mathbb{N}$. 由于$P(n-1)$为真，由归纳假设$P(n)$为真，这与假设矛盾！所以数学归纳法成立.    $\Box$
 
 <font size="2">Oscillatory Integrals万岁！Oscillatory Integrals万岁！Oscillatory Integrals万岁！(捧读)</font>
